@@ -18,7 +18,7 @@ h3{
   color:blue;
   display: block;
   border-top: 1px solid #666666;
-  background-color: pink;
+  background-color: #ccc;
 }
 ul{
   border: 1px solid green;
@@ -31,9 +31,9 @@ ul{
   margin-top: 50px;
 }
 blockquote{
-  background-color: #616161;
+  background-color: #ccc;
   display: block;
 }
 .box1 div{
-  background-color: #616161;
+  background-color: #ccc;
 }
