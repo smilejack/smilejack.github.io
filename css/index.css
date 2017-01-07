@@ -34,11 +34,17 @@ ul{
   float: left;
   text-align: center;
 }
-.num li,.name li{
+li{
   border:1px solid #ccc;
   background-color: #0a9669;
   line-height: 35px;
   font-size: 20px;
+}
+li:hover {
+  background-color: #ccc;
+}
+li:hover a{
+  color:red;
 }
 .name{
   width: 350px;
