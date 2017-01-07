@@ -25,15 +25,9 @@ ul{
 }
 .box1{
   width: 800px;
-  background-color: #a4bfb8;
+  background-color: #fff;
+  border-radius: 10px;
   margin: 0 auto;
   box-shadow:0px 0px 5px blue;
   margin-top: 50px;
-}
-blockquote{
-  background-color: #ccc;
-  display: block;
-}
-.box1 div{
-  background-color: #ccc;
 }
