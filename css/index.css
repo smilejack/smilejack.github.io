@@ -5,6 +5,7 @@
 .box{
   margin: 0 auto;
   width: 1000px;
+  overflow: hidden;
 }
 h1{
   text-align: center;
@@ -15,6 +16,7 @@ h1{
 h2{
   text-align: center;
   display: block;
+  line-height: 60px;
   border:2px solid #ccc;
   width: 200px;
   margin: 0 auto;
